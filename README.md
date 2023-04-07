@@ -31,7 +31,7 @@ https://github.com/Psalmykrane/Netflix-movie-project/blob/main/datasets/netflix_
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns'
+import seaborn as sns
 ```
 
 
