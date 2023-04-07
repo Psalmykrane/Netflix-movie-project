@@ -8,7 +8,7 @@ You'll press "watch next episode" to discover if Netflix's movies are getting sh
 
 ## 🛑 Roadmap
 
-### The data
+### The dataset file
 
 https://github.com/Psalmykrane/Netflix-movie-project/blob/main/datasets/netflix_data.csv
 
